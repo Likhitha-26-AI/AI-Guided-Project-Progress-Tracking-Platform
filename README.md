@@ -1,4 +1,4 @@
-@'
+
 <div align="center">
 
 # AI-Guided Project Progress Tracking Platform
