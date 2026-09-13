@@ -77,9 +77,9 @@ list.)*
 **Auth:** GitHub OAuth (optional, powers the repo-import feature)
 
 ## Project Structure
-project-tracking-platform/
-├── backend/ — FastAPI application
-└── frontend/ — React application
+
+- **`backend/`** — FastAPI application
+- **`frontend/`** — React application
 
 Each folder has its own README with detailed setup instructions.
 
