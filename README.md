@@ -121,4 +121,3 @@ including how to grab a free Hugging Face token and configure GitHub OAuth.
 Built as an academic project submission — every AI feature runs free, forever.
 
 </div>
-'@ | Set-Content -Path README.md -Encoding UTF8
