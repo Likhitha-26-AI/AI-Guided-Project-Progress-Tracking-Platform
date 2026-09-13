@@ -25,8 +25,8 @@ AI mentor chat, a task checklist that tracks whether you're on schedule, and
 an AI-generated readiness score. Your faculty mentor sees your progress in
 real time and can leave feedback on any specific part of your blueprint.
 
-Every AI feature runs on Hugging Face's **free** inference tier. No paid APIs,
-no credit card, anywhere in this project.
+Built entirely on free-tier resources — Hugging Face's free inference API for
+every AI feature, SQLite for the database, no paid services anywhere.
 
 ## The 5 AI Agents
 
@@ -118,6 +118,6 @@ including how to grab a free Hugging Face token and configure GitHub OAuth.
 
 <div align="center">
 
-Built as an academic project submission — every AI feature runs free, forever.
+Built as part of an internship project — every AI feature runs on free-tier resources.
 
 </div>
